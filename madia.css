@@ -1,0 +1,26 @@
+    @media only screen and (max-width: 700px){
+      
+        .colm{
+            padding-left: 30vw;
+        }
+        .con1 h1{
+            font-size: 5vw;
+            margin-top: -3vw;
+        }
+       
+        .con1 button{
+            font-size: 2vw;
+            margin-right: 39vw;
+            padding: 3vw;
+            position: relative;
+            top: 11vw ;
+        }
+        .driver2{
+            font-size: 3vw;
+        }
+        .con2 h1{
+            font-size: 5vw;
+        }
+      
+
+    }

@@ -1,0 +1,288 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background:url(./h1-rev-img-3b.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 800px; */
+    width: 100%;
+}
+nav li a{
+    letter-spacing: 2px;
+}
+.gun{
+    letter-spacing: 3px;
+    
+}
+.gun1{
+    letter-spacing: 1.4px;
+    
+}
+.car{
+    /* border: 5px solid white; */
+    padding-top: 15vw;
+   margin-left: 5vw;
+    font-family: "Epilogue", sans-serif;
+    font-weight: 350;
+    /* width: 100%; */
+    text-align: left;
+    
+} 
+.car1{
+    font-family: "Epilogue", sans-serif;
+    font-weight: 350;
+    text-align: left;
+    margin-left: 5vw;  
+} 
+.car2{
+    margin-left: 5vw;
+    font-family: "Epilogue", sans-serif;
+    font-weight: 350;   
+} 
+.form{
+    margin-top: 5vw;
+    background-color:transparent;
+    border: none;
+    border-bottom: 2px solid white;
+    color: white;
+    width: 100%;  
+    margin-left: 5vw;
+}
+.main1{
+    /* min-height: 140vw; */
+    background-color: rgba(20, 26, 28, 1);
+    
+}
+.lux{
+    position: relative;
+    top: 10vw;
+    left: 5vw;
+    font-family:  "Epilogue", sans-serif;
+    font-weight: 300;
+    
+}
+.lux1{
+   position: relative;
+   top: 10vw;
+   left: 5vw;
+    font-family:"Sora" sans-serif;
+    font-weight: 300;
+}
+.lux2{
+    font-family:  "Inconsolata" sans-serif;
+    font-weight: 300;
+    color: rgba(145, 122, 88, 1);
+    letter-spacing: 4px;
+    width: 70%;
+    position: relative;
+    top: 10vw;
+    left: 5vw;
+    
+}
+.cars{
+    padding-top: 10vw;
+}
+
+.icon span i{
+    color: rgba(191, 163, 124, 1);
+    
+}
+.main2{
+    background-color: #151516;
+    /* height: 100vw; */
+}
+.ride{
+    font-family: "Epilogue"sans-serif;
+    font-weight: 400;
+    font-size: 2.5vw;
+    position: relative;
+    top: 5vw;
+}
+.ride2{
+    font-family: "Inconsolata" sans-serif;
+    letter-spacing: 3px;
+    color: #9e6320;
+    /* font-size: 3vw; */
+    position: relative;
+    top: 5vw;
+}
+.para{
+    color: rgba(219, 219, 219, 0.407);
+    font-family:"Sora" sans-serif;
+    font-size: 1.2vw;
+}
+.heading{
+    font-family: "Epilogue"sans-serif;
+    font-weight: 500;
+}
+.img{
+    background: url(./h1-img-2.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    /* height: 50vw; */
+    
+}
+.video{
+    color: white;
+    text-decoration: none;
+    height: 250px;
+    width: 250px;
+    border: 1px solid white;
+    border-radius: 50%;
+    display:inline-block;
+    /* position: relative; */
+    /* top: 25vw; */
+    /* left: 5vw; */
+    margin-top: 16vw;
+    margin-left: 5vw;
+}
+.img a{
+    text-align: center;
+    padding-top: 7vw;
+}
+.main3{
+    background-color: #141A1C;
+    /* height: 50vw; */
+}
+.main3 h1{
+    font-family: "Epilogue"sans-serif;
+    font-weight: 400;
+    padding-top: 7vw;
+    padding-left: 5vw;
+}
+.driver{
+    font-family: "Inconsolata" sans-serif;
+    letter-spacing: 3px;
+    color: #9e6320;
+    font-size: 14px;
+    padding-left: 5vw;
+}
+.para1{
+    padding-left: 5vw;
+    font-size: 17px;
+    color: white;
+    font-family:"Sora"  sans-serif;
+    font-weight:400 ;
+}
+.main3 button{
+    border: 1px solid white;
+    padding: 20px 30px ;
+    background: transparent;
+    color: white;
+    letter-spacing: 3px;
+    margin-left: 5vw;
+    font-family: "Inconsolata" sans-serif;
+}
+.con1{
+    width: 100%;
+    height: 35vw;
+    background: url(./h1-img-5.jpg);
+    /* background-position: center; */
+    background-size: cover; 
+    
+}
+.con1 h1{
+    color: #ffffff;
+    position: relative;
+    float: right;
+    top: 10vw;
+    font-family:"Epilogue" sans-serif;
+    font-weight: 400;
+    font-size: 42px;
+    padding-right: 5vw;
+    text-align: end;
+}
+.con1 button{
+    border: 1px solid white;
+    border-color: #BFA37C;
+    padding: 20px 40px ;
+    background: transparent;
+    color: white;
+    letter-spacing: 5px;
+    position: relative;
+    float: right;
+    top: 18vw;
+    left: 34vw;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Inconsolata" sans-serif;
+}
+.con2{
+    width: 100%;
+    /* height: 70vw; */
+    background-color:#0C1315;
+    
+}
+.con2 h1{
+    font-family: "Epilogue"sans-serif;
+    font-weight: 400;
+    padding-top: 10vw;
+    padding-left: 4vw;     
+    text-align: left;
+    font-size: 42px;
+    }
+    .driver2{
+        font-family: "Inconsolata" sans-serif;
+        letter-spacing: 3px;
+        color: #BF9647;
+        padding-left: 5vw;
+        font-weight: 400;
+        font-size: 14px;
+    }    
+    .team{
+        width: 100%;
+        /* height: 30vw; */
+        
+    }
+    .team h3{
+        color:white;
+        margin-top: 2vw;
+        font-size: 25px;
+        font-family:"Epilogue" sans-serif;
+        font-weight: 400;
+    }
+    .team p{
+        /* border: 5px solid black;    */
+        color: #BFA37C;
+    }
+    h1 {
+        margin: 1rem;
+        text-align: center;
+      }
+ 
+.con3{
+/* height: 50vw; */
+background-color:#141A1C;
+}
+.con3 div{
+    padding-top: 3vw;
+
+}
+.premium h1{
+    font-family: "Epilogue"sans-serif;
+    font-weight: 400;
+    text-align: left;
+    font-size: 42px;
+    padding-top: 5vw;
+    }  
+.best{
+    font-family: "Inconsolata" sans-serif;
+    font-weight: 400;
+    text-align: left;
+    font-size: 14px;
+    color:#af712bc9;
+    /* color: brown; */
+    padding-left:1vw;
+    letter-spacing: 5px;
+}   
+.para2{
+    color: #788386;
+    font-family:"Sora" sans-serif;
+    padding-left: 1vw;
+    font-size: 16px;
+    font-weight: 400;
+} 
+      
